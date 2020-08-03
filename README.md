@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm Franco Manca
+
+I am **Electromechanical Engineer** and I love Computer Science, specifically **Machine Learning** and **IoT systems**.
+
+- 🔭 I’m currently working on School as technical teacher.  
+- 🌱 I’m currently learning **Data Science** in [Platzi](https://github.com/platzi) Data Science School. 
+ 
+ [Here some projects from Data Science School](https://github.com/francomanca93/escuela-datascience). 
 
 <!--
 **francomanca93/francomanca93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
