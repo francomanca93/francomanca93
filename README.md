@@ -4,7 +4,7 @@ I am **Electromechanical Engineer** and I love Computer Science, specifically **
 
 - 🌱 I’m currently learning **Data Science** in [Platzi](https://github.com/platzi) [Data Science School](https://platzi.com/datos/).
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/francomanca93/)
-[Here my route from Data Scientist](https://github.com/francomanca93/escuela-datascience).
+- [Here my route from Data Scientist](https://github.com/francomanca93/escuela-datascience).
 
 **Personal Projects**
 
