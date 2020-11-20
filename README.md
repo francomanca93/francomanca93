@@ -19,7 +19,18 @@ I am **Electromechanical Engineer** and I love Computer Science, specifically **
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=francomanca93&show_icons=true)  
 
+## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=green)
+![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=white)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=purple)
 
 <!--
 **francomanca93/francomanca93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
