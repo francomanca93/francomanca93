@@ -1,9 +1,11 @@
-### Hello, I'm Franco Manca
+### Hello, I'm Franco
 
 I am **Electromechanical Engineer** and I love Computer Science, specifically **Machine Learning** and **IoT systems**.
 
-- 🌱 I’m currently learning **Data Science** in [Platzi](https://github.com/platzi) [Data Science School](https://platzi.com/datos/).
+- 🌱 I’m currently learning [**Data Science**](https://platzi.com/datos/) and [**Backend Development with Python and Django**](https://platzi.com/backend-python/) in [Platzi](https://github.com/platzi).
+
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/francomanca93/)
+
 - [Here my route from Data Scientist](https://github.com/francomanca93/escuela-datascience).
 
 **Personal Projects**
@@ -13,6 +15,12 @@ I am **Electromechanical Engineer** and I love Computer Science, specifically **
 - [Data analysis project: Climate change applying Pandas, Numpy and Matplotlib](https://github.com/francomanca93/analisis-de-datos#Proyecto---Cambio-clim%C3%A1tico)
 - [Data Analysis Project: Analysis of COVID-19 in Argentina](https://github.com/francomanca93/COVID-19_Ar)
   - [Medium Post](https://medium.com/@francomanca93/an%C3%A1lisis-de-covid-19-en-argentina-3a6c3e3d7d80)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=francomanca93&show_icons=true)  
+
+
+
 <!--
 **francomanca93/francomanca93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
