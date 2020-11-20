@@ -1,4 +1,4 @@
-### Hello, I'm Franco
+## Hello, I'm Franco
 
 I am **Electromechanical Engineer** and I love Computer Science, specifically **Machine Learning** and **IoT systems**.
 
@@ -8,7 +8,7 @@ I am **Electromechanical Engineer** and I love Computer Science, specifically **
 
 - [Here my route from Data Scientist](https://github.com/francomanca93/escuela-datascience).
 
-**Personal Projects**
+## :thumbsup: Personal Projects
 
 - [Simple web scraping project: News Scraper](https://github.com/francomanca93/fundamentos-web-scraping-python-xpath#proyecto-scraper-de-noticias) 
 - [ETL Project: Professional Web Scrapper following the workflow of a Data Engineer](https://github.com/francomanca93/ingenieria-de-datos)
@@ -29,6 +29,8 @@ I am **Electromechanical Engineer** and I love Computer Science, specifically **
 ![](https://img.shields.io/badge/Tools-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=purple)
 
@@ -45,4 +47,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://simpleicons.org/
 -->
