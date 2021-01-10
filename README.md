@@ -31,6 +31,7 @@ I am **Electromechanical Engineer** and I love Computer Science, specifically **
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=purple)
 
