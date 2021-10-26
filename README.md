@@ -10,6 +10,7 @@ I am **Electromechanical Engineer** and I love Computer Science, specifically **
 
 ## :thumbsup: Personal Projects
 
+- [Applying AI Transformation Playbook - Geek Culture Post in Medium](https://medium.com/geekculture/applying-ai-transformation-playbook-cfeaf206572d)
 - [Simple web scraping project: News Scraper](https://github.com/francomanca93/fundamentos-web-scraping-python-xpath#proyecto-scraper-de-noticias) 
 - [ETL Project: Professional Web Scrapper following the workflow of a Data Engineer](https://github.com/francomanca93/ingenieria-de-datos)
 - [Data analysis project: Climate change applying Pandas, Numpy and Matplotlib](https://github.com/francomanca93/analisis-de-datos#Proyecto---Cambio-clim%C3%A1tico)
