@@ -1,8 +1,6 @@
 ## Hello, I'm Franco
 
-I am **Electromechanical Engineer** and I love Computer Science, specifically **Machine Learning** and **IoT systems**.
-
-- 🌱 I’m currently learning [**Data Science**](https://platzi.com/datos/) and [**Backend Development with Python and Django**](https://platzi.com/backend-python/) in [Platzi](https://github.com/platzi).
+- 🌱 Currently I work as Data Engineer and I'm constantly learning about different topics relatec to Computer Science as Data Science, Machine Learning and Blockchain systems
 
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/francomanca93/)
 
